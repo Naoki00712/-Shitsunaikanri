@@ -1,7 +1,7 @@
 # 室内管理アプリ(データ取得コード)
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
+
+ラズパイでDHT11とBMP280を扱った
+温度湿度気圧を測定して屋外（神戸市）の気温湿度気圧を測定するプログラムです。
  
 # DEMO
  
@@ -31,7 +31,7 @@ DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 ```bash
 git clone https://github.com/Naoki00712/Shitsunaikanri/~
 cd examples
-python env.py
+python3 env.py
 ```
  
 # Note
